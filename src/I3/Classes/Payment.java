@@ -2,10 +2,6 @@ package I3.Classes;
 
 import java.util.ArrayList;
 
-/**
- *
- * @author www.Skidaweb.com
- */
 public class Payment {
     
     //required Object
