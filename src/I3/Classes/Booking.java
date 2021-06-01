@@ -3,10 +3,6 @@ package I3.Classes;
 import java.util.ArrayList;
 import java.util.Date;
 
-/**
- *
- * @author www.Skidaweb.com
- */
 public class Booking {
     
    // int CONFIRMED = 0;
