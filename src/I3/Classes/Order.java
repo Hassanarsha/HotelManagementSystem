@@ -1,9 +1,5 @@
 package I3.Classes;
 
-/**
- *
- * @author www.Skidaweb.com
- */
 public class Order {
     
     int orderId;
