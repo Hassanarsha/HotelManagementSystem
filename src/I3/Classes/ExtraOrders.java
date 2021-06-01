@@ -1,9 +1,5 @@
 package I3.Classes;
 
-/**
- *
- * @author www.Skidaweb.com
- */
 public class ExtraOrders {
 
     private int order_id;
