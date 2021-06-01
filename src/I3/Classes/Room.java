@@ -1,9 +1,5 @@
 package I3.Classes;
 
-/**
- *
- * @author www.Skidaweb.com
- */
 public class Room {
     private int room_id;
     private String room_no;
